@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Laurah (@lmwirichia)
-- 👀 I’m a content designer 
+- 👀 I’m a UX content designer 
 - 🌱 I’m currently learning how to improve developer + designer handoffs & communication
 
 <!---
