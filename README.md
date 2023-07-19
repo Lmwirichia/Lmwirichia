@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Laurah (@lmwirichia)
-- 👀 I’m a UX content designer 
-- 🌱 I’m currently learning how to improve developer + designer handoffs & communication
+- 👀 I’m a UX Designer 
+- 🌱 I’m currently working on the design systems & accessibility team at Squarespace
 
 <!---
 Lmwirichia/Lmwirichia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
